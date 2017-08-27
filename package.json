@@ -1,29 +1,28 @@
 {
   "name": "trucking",
   "version": "1.0.0",
-  "description": "US and canada trucking constants",
+  "description": "Trucking constants",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test "
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Osrit/trucking-constants.git"
+    "url": "git+https://github.com/mdhanju/trucking.git"
   },
   "keywords": [
-    "node.js",
-    "maps",
-    "polygon",
-    "state",
-    "outline",
-    "coordinates",
-    "latitude",
-    "longitude."
+    "Trucking",
+    "Drivers",
+    "Licence",
+    "US",
+    "States",
+    "CA",
+    "States"
   ],
   "author": "Maninder Dhanju <singhmaninder21@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Osrit/trucking-constants/issues"
+    "url": "https://github.com/mdhanju/trucking/issues"
   },
-  "homepage": "https://github.com/Osrit/trucking-constants#readme"
+  "homepage": "https://github.com/mdhanju/trucking#readme"
 }
