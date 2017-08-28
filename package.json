@@ -1,6 +1,6 @@
 {
   "name": "trucking",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Trucking constants",
   "main": "index.js",
   "scripts": {
